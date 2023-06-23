@@ -1,11 +1,31 @@
-# Getting Started with Create React App
+# MovieScope
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Pitch
 
-## Available Scripts
+MovieScope is an interactive app where users can access information about a collection of movies and view crowd-sourced ratings and reviews. Users can participate by sharing their own opinions, and adding/deleting movies from the collection. 
+
+## Wireframe
+
+![Alt text](<Phase 2 Project - MovieHub.jpeg>)
+
+## User Stories
+
+As a user, I want to be able to view a movie card (or possibly a list of all movies) including a poster, review and rating upon loading the home page (GET). I want to be able to filter the movies displayed on the home page by searching movies by title. Clicking on one a movie card will bring up the page for the clicked movie (GET). Clicking ‘Edit/Update’ will open a form to edit that movie’s info (GET). Submitting that form will update the info and re-render the page with the update (PUT/PATCH). I want to click a link to navigate to a form where I can add a new movie to the database (POST). I also want to be able to delete a movie from the database (DELETE).
+
+
+## Authors and Acknowledgement
+
+Created by John Phonxaya and Wes Peters
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+## React App Info
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
