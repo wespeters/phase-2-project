@@ -6,11 +6,15 @@ MovieScope is an interactive app where users can access information about a coll
 
 ## Wireframe
 
-![Alt text](<Phase 2 Project - MovieHub.jpeg>)
+Home Page
+![Alt text](<wireframe1.png>)
+
+Movie Detail Page
+![Alt text](<wireframe2.png>)
 
 ## User Stories
 
-As a user, I want to be able to view a movie card (or possibly a list of all movies) including a poster, review and rating upon loading the home page (GET). I want to be able to filter the movies displayed on the home page by searching movies by title. Clicking on one a movie card will bring up the page for the clicked movie (GET). Clicking ‘Edit/Update’ will open a form to edit that movie’s info (GET). Submitting that form will update the info and re-render the page with the update (PUT/PATCH). I want to click a link to navigate to a form where I can add a new movie to the database (POST). I also want to be able to delete a movie from the database (DELETE).
+As a user, I want to be able to view a list of all movie cards upon loading the home page (GET). I want to be able to filter the movies displayed on the home page by searching movies by title. Clicking on one a movie card will bring up the detail page for the clicked movie (GET). Clicking ‘Edit/Update’ will open a form to edit that movie’s data (GET). Submitting that form will update the data and re-render the page with the update (PUT/PATCH). I want to click a link to navigate to a form where I can add a new movie to the database (POST). I also want to be able to delete a movie from the database (DELETE).
 
 
 ## Authors and Acknowledgement
