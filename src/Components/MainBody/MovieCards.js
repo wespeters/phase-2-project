@@ -1,6 +1,6 @@
 import React from "react";
-import MovieDetail from "../MovieDetail";
-import AddMovie from "../AddMovie"
+import MovieDetail from "./MovieDetail"
+import AddMovie from "./AddMovie"
 
 function MovieCards() {
     return (

@@ -2,83 +2,83 @@
     "movies": [
         {
             "id": 1,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "John Wick",
+            "img": "public/images/johnwick.png",
+            "description": "An ex-hitman comes out of retirement to track down the gangsters who killed his dog and stole his car.",
+            "director": "Chad Stahelski",
+            "rating": 10
         },
         {
             "id": 2,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "Forrest Gump",
+            "img": "public/images/forrestgump.jpg",
+            "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+            "director": "Robert Zemeckis",
+            "rating": 9
         },
         {
             "id": 3,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "Oldboy",
+            "img": "public/images/oldboy.jpg",
+            "description": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+            "director": "Park Chan-wook",
+            "rating": 8
         },
         {
             "id": 4,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "Bad Boys",
+            "img": "public/images/badboys.jpg",
+            "description": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+            "director": "Michael Bay",
+            "rating": 6
         },
         {
             "id": 5,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "",
+            "img": "",
+            "description": "",
+            "director": "",
+            "rating": ""
         },
         {
             "id": 6,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "",
+            "img": "",
+            "description": "",
+            "director": "",
+            "rating": ""
         },
         {
             "id": 7,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "",
+            "img": "",
+            "description": "",
+            "director": "",
+            "rating": ""
         },
         {
             "id": 8,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "",
+            "img": "",
+            "description": "",
+            "director": "",
+            "rating": ""
         },
         {
             "id": 9,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "",
+            "img": "",
+            "description": "",
+            "director": "",
+            "rating": ""
         },
         {
             "id": 10,
-            "title": null,
-            "img": null,
-            "description": null,
-            "director": null,
-            "rating": null
+            "title": "",
+            "img": "",
+            "description": "",
+            "director": "",
+            "rating": ""
         }
     ]
 }
